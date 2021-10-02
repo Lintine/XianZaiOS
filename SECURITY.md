@@ -6,9 +6,9 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.x.x   | :grey_question:    |
-| 4.x.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 5.x.x   | Not released       |
+| 4.x.x   | Yes                |
+| < 4.0   | No(not linux-based)|
 
 ## Reporting a Vulnerability
 
