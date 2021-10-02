@@ -4,6 +4,7 @@
 ## _Simple Yet Secure_
 EnviOS is a GNU/Linux distro based on Ubuntu 20.04.3 LTS that is for everyone.
 
-To install EnviOS, Open a terminal and type in the command:
-```sudo ubiquity```
+The current version is a pre-release version;
+	Do not use this as production machine, it's very unstable.
+
 More info will be provided soon.
