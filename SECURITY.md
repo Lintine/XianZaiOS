@@ -1,4 +1,4 @@
-### [Home](https://kevadesu.github.io/EnviOS) | [Security Info](https://kevadesu.github.io/EnviOS/SECURITY)
+### [Home](https://lintine.github.io/EnviOS) | [Security Info](https://lintine.github.io/EnviOS/SECURITY)
 # Security Policy
 
 ## Supported Versions
