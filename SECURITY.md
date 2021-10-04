@@ -1,4 +1,4 @@
-![envi OS logo](https://media.discordapp.net/attachments/877278030203088960/877561207027040346/unknown.png "EnviOS Logo")
+![envi OS logo](https://cdn.discordapp.com/attachments/877278030203088960/894623761410695178/unknown.png)
 ### [Home](https://lintine.github.io/EnviOS) | Security Info | [Download](https://lintine.github.io/EnviOS/DOWNLOAD)
 # Security Policy
 
