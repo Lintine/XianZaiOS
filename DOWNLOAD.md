@@ -1,5 +1,5 @@
-![envi OS logo](https://cdn.discordapp.com/attachments/877278030203088960/894623761410695178/unknown.png "EnviOS Logo")
-### [Home](https://lintine.github.io/EnviOS) | [Security Info](https://lintine.github.io/EnviOS/SECURITY) | Download
+![Shorter Version of the XianZaiOS logo](https://media.discordapp.net/attachments/890976217677828176/895634522635386900/unknown.png "XianZaiOS Shorter Logo")
+### [Home](https://lintine.github.io/XianZaiOS) | [Security Info](https://lintine.github.io/XianZaiOS/SECURITY) | Download
 
 | Version             | Download           | Notes              |
 | ------------------- | ------------------ | ------------------ |
