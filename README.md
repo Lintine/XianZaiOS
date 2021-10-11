@@ -7,6 +7,9 @@ XianZaiOS is a GNU/Linux distro based on Ubuntu 20.04.3 LTS that is for everyone
 The current version is a pre-release version;
 	Do not use this as production machine, it's very unstable.
 
+# xzOS Build Info
+XianZaiOS will be an interim build with monthly or weekly updates on [Envipatch](https://envipatch.weebly.com/) with nightly and beta packages
+
 More info will be provided soon.
 EnviOS has been renamed to XianZaiOS
 
