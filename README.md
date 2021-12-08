@@ -16,11 +16,11 @@ EnviOS has been renamed to XianZaiOS
 Features:
 
 - [x] Terminal-based Programs
-- [-] Partially Open-Source
-- [-] Accessibility (rated as partially since some programs are in the terminal
+- [x] Partially Open-Source
+- [x] Accessibility (rated as partially since some programs are in the terminal)
 - [x] Beginner-Friendly (can get you used to the terminal)
 - [ ] Our own package manager (not released yet)
-- [-] Complete Build
+- [ ] Complete Build
 
 In the meantime, we're proudly announcing the partnership between XianZaiOS and BOX!
 ![haha yes box on xz OS go brrrrr](https://media.discordapp.net/attachments/797178229194489907/895638004956295218/boxonxzos.png "Partnership Icon")
