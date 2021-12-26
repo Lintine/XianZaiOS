@@ -3,4 +3,4 @@ Hello and welcome to the wiki for XianZaiOS! This is a wiki which can help you o
 
 Let's get started. Welcome to the index.
 
-[index](https://lintine.github.io/xianzaios/wiki/index)
+- [index](https://lintine.github.io/XianZaiOS/wiki/index)
