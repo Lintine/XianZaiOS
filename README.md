@@ -25,7 +25,15 @@ Features:
 In the meantime, we're proudly announcing the partnership between XianZaiOS and BOX!
 ![haha yes box on xz OS go brrrrr](https://media.discordapp.net/attachments/797178229194489907/895638004956295218/boxonxzos.png "Partnership Icon")
 
+# Requirements for Insiders
 
+```markdown
+- Virtual Machine (Recommended)
+- PC (Recommended, although can be used in VMs for mobile)
+- No Windows CE Laptop or some low-end laptop.
+- More than 3 GBs of storage (for ISO download)
+- Around 13 GB of storage or more free (for the system, hey atleast it's lighter than macOS.)
+*End of the list*```
 
 
 
