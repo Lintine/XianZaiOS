@@ -33,7 +33,8 @@ In the meantime, we're proudly announcing the partnership between XianZaiOS and 
 - No Windows CE Laptop or some low-end laptop.
 - More than 3 GBs of storage (for ISO download)
 - Around 13 GB of storage or more free (for the system, hey atleast it's lighter than macOS.)
-*End of the list*```
+*End of the list*
+```
 
 
 
