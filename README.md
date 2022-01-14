@@ -1,6 +1,21 @@
 ![Shorter Version of the XianZaiOS logo](https://media.discordapp.net/attachments/890976217677828176/895634522635386900/unknown.png "XianZaiOS Shorter Logo")
 ### Home | [Security Info](https://lintine.github.io/XianZaiOS/SECURITY) | [Download](https://lintine.github.io/XianZaiOS/DOWNLOAD)
 # XianZaiOS
+# :warning: Disclaimer
+Before we dive into the website, I just want to tell about what happened to this """distro""".
+
+I'm completely giving up on XianZaiOS. It's completely pointless, useless and unnecessary.
+
+I mean, first of all, it's just ubuntu with a lot of sprinkles on top, but it's also like that with other distros which people deny to admit since their devs are actually "making something unique" while XianZaiOS "just slaps a DE and calls it a day".
+
+Next, All of the shit in XianZaiOS could have been installed with **A**dvanced **P**ackaging **T**ool. literally.
+
+And not last, neither least, Was it really ever a distro? or just a shitty ISO of Ubuntu? It was never a distro.
+
+Now for XZPaqué, it's staying with the "XZ" at the beginning.
+
+Sayonara, XianZaiOS
+
 ## _Simple Yet Secure_
 XianZaiOS is a GNU/Linux distro based on Ubuntu 20.04.3 LTS that is for everyone.
 
