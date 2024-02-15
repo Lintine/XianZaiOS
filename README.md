@@ -1,6 +1,11 @@
 ![Shorter Version of the XianZaiOS logo](https://media.discordapp.net/attachments/890976217677828176/895634522635386900/unknown.png "XianZaiOS Shorter Logo")
 ### Home | [Security Info](https://lintine.github.io/XianZaiOS/SECURITY) | [Download](https://lintine.github.io/XianZaiOS/DOWNLOAD)
 # XianZaiOS
+# :warning: Superior disclaimer
+The disclaimer I wrote below was when I was tired and pissed off, but those weren't the reasons I stopped developing XianZaiOS. I kinda started off on the wrong foot with the project.
+
+But now I am proud to announce to you guys that two new OSes are in the works: [ArctineOS](https://icycoide.github.io/arctine-docs/) and [ElemintOS](https://icycoide.github.io/ElemintOS/)
+
 # :warning: Disclaimer
 Before we dive into the website, I just want to tell about what happened to this """distro""".
 
